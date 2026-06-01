@@ -1,0 +1,10 @@
+﻿# 大文件 - 超过GitHub 100MB限制，不上传
+01-CUDA/cuda_*.run
+05-内核升级/kernel.tar.gz
+
+# 临时文件
+临时下载/
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
