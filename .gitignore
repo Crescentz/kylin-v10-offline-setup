@@ -8,3 +8,6 @@
 # 操作系统文件
 Thumbs.db
 .DS_Store
+
+# NVIDIA驱动 (超过GitHub 100MB限制)
+01-CUDA/NVIDIA-Linux-x86_64-*.run
